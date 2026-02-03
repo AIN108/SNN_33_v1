@@ -1,0 +1,14 @@
+# MATLAB
+*.asv
+*.autosave
+*.mex*
+*.m~
+*.slxc
+*.pcode
+
+# Simulink
+slprj/
+codegen/
+
+# Data (대용량 방지)
+*.mat
