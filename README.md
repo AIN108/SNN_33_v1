@@ -107,3 +107,7 @@ p1, p2, p3, p4, p5, p6, p7, p8, p9
 ## 참고문헌
 
 - Bi, G. Q., & Poo, M. M. (1998). Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type. *Journal of Neuroscience*, 18(24), 10464-10472.
+
+## 포트폴리오
+
+- Notion 프로젝트: https://app.notion.com/p/2c5f6964be6180f7a1d2ebb9edbc0823
