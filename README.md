@@ -16,7 +16,6 @@
 
 ```
 SNN_33_v1/
-├── slprj/                          # Simulink 프로젝트 캐시
 ├── model_setup4.m                  # 학습 모델 파라미터 초기화
 ├── model_setup_test.m              # 테스트 모델 파라미터 초기화
 │
@@ -111,3 +110,5 @@ p1, p2, p3, p4, p5, p6, p7, p8, p9
 ## 포트폴리오
 
 - Notion 프로젝트: https://app.notion.com/p/2c5f6964be6180f7a1d2ebb9edbc0823
+
+> `slprj/`와 `*.slxc`는 Simulink가 시뮬레이션 시 자동 생성하는 캐시이므로 저장소에 포함하지 않습니다.
